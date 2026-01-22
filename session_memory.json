@@ -1,0 +1,101 @@
+[
+  {
+    "timestamp": "2026-01-23T04:17:24.039516",
+    "query": "flood affected regions and response",
+    "text_results": [
+      {
+        "filename": "flood_assam_2023.txt",
+        "score": 0.6220958,
+        "source": "text_report",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "earthquake_nepal_2022.txt",
+        "score": 0.27542123,
+        "source": "text_report",
+        "event_type": "disaster"
+      }
+    ],
+    "image_results": [
+      {
+        "filename": "flood_zone_satellite.jpg",
+        "score": 0.5456562,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "landslide_area.png",
+        "score": 0.41387194,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      }
+    ],
+    "total_results": 4
+  },
+  {
+    "timestamp": "2026-01-23T04:17:27.258174",
+    "query": "earthquake rescue operations",
+    "text_results": [
+      {
+        "filename": "earthquake_nepal_2022.txt",
+        "score": 0.49014595,
+        "source": "text_report",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "flood_assam_2023.txt",
+        "score": 0.2960457,
+        "source": "text_report",
+        "event_type": "disaster"
+      }
+    ],
+    "image_results": [
+      {
+        "filename": "landslide_area.png",
+        "score": 0.44390318,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "flood_zone_satellite.jpg",
+        "score": 0.4248705,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      }
+    ],
+    "total_results": 4
+  },
+  {
+    "timestamp": "2026-01-23T04:17:27.875421",
+    "query": "landslide disaster assessment",
+    "text_results": [
+      {
+        "filename": "earthquake_nepal_2022.txt",
+        "score": 0.43307889,
+        "source": "text_report",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "flood_assam_2023.txt",
+        "score": 0.40691411,
+        "source": "text_report",
+        "event_type": "disaster"
+      }
+    ],
+    "image_results": [
+      {
+        "filename": "landslide_area.png",
+        "score": 0.7631306,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      },
+      {
+        "filename": "flood_zone_satellite.jpg",
+        "score": 0.55801666,
+        "source": "satellite_image",
+        "event_type": "disaster"
+      }
+    ],
+    "total_results": 4
+  }
+]

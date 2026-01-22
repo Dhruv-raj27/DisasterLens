@@ -1,0 +1,18 @@
+[
+  {
+    "alert_id": "ALERT001",
+    "event_type": "flood",
+    "location": "Assam",
+    "severity": "high",
+    "date": "2023-07-15",
+    "description": "Heavy rainfall caused river overflow and mass displacement."
+  },
+  {
+    "alert_id": "ALERT002",
+    "event_type": "earthquake",
+    "location": "Nepal",
+    "severity": "medium",
+    "date": "2022-11-09",
+    "description": "Moderate earthquake with structural damage reported."
+  }
+]
